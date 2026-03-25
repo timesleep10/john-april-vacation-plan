@@ -1,3 +1,13 @@
 body{
+    background-color: #F2B988;
+    color: #BF5841;
     text-align: center;
+}
+table, td, th{
+    border: 3px, solid, #47BF26;
+    border-collapse: collapse;
+    margin: auto;
+}
+td, th{
+    width: 100px;
 }
