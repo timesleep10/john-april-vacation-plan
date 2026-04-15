@@ -19,3 +19,9 @@ dl{
 caption, img{
     margin: 30px;
 }
+figcaption{
+    font-size: larger;
+}
+.cap1{
+    font-size: x-large;
+}
